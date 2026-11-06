@@ -1,0 +1,22 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# M5 dataset
+data/raw/
+data/processed/
+
+# Trained models
+model/*.pkl
+model/*.joblib
+
+# Generated results
+output/ml_models/
+output/seasonal_naive/*.csv
+script/results/*.csv
+
+# VS Code
+.vscode/
