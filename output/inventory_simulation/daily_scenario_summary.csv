@@ -1,0 +1,15 @@
+﻿scenario,date,ending_inventory,shortage,actual_demand
+Khong nhap them hang,2016-03-28,7196.0,98.0,2480.0
+Khong nhap them hang,2016-03-29,4985.0,270.0,2481.0
+Khong nhap them hang,2016-03-30,3410.0,560.0,2135.0
+Khong nhap them hang,2016-03-31,2001.0,1242.0,2651.0
+Khong nhap them hang,2016-04-01,1043.0,2174.0,3132.0
+Khong nhap them hang,2016-04-02,589.0,3436.0,3890.0
+Khong nhap them hang,2016-04-03,360.0,3997.0,4226.0
+Nhap theo de xuat,2016-03-28,7196.0,98.0,2480.0
+Nhap theo de xuat,2016-03-29,4985.0,270.0,2481.0
+Nhap theo de xuat,2016-03-30,3410.0,560.0,2135.0
+Nhap theo de xuat,2016-03-31,2001.0,1242.0,2651.0
+Nhap theo de xuat,2016-04-01,1043.0,2174.0,3132.0
+Nhap theo de xuat,2016-04-02,589.0,3436.0,3890.0
+Nhap theo de xuat,2016-04-03,21722.0,13.0,4226.0

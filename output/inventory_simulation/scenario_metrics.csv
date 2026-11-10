@@ -1,0 +1,3 @@
+﻿scenario,total_actual_demand,total_fulfilled_demand,total_shortage,ending_inventory_total,fulfillment_rate_percent,stockout_item_days,products_with_stockout
+Khong nhap them hang,20995.0,9218.0,11777.0,360.0,43.905691831388424,2823,1054
+Nhap theo de xuat,20995.0,13202.0,7793.0,21722.0,62.88163848535366,2001,914
